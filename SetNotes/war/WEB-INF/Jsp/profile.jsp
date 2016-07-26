@@ -8,5 +8,12 @@
 </head>
 <body>
 <p>I'm in jsp</p>
+
+<%  String name = request.getParameter("name");
+	String email = request.getParameter("email");
+%>
+Name = <%=name%>
+Email = <%=email%>
+
 </body>
 </html>

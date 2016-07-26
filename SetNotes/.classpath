@@ -4,5 +4,9 @@
 	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gson-2.2.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/json-simple.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
