@@ -9,7 +9,7 @@
 <body>
 <p>I'm in jsp</p>
 
-<%  String name = request.getParameter("name");
+<%  String name = request.getParameter("fname");
 	String email = request.getParameter("email");
 %>
 Name = <%=name%>
